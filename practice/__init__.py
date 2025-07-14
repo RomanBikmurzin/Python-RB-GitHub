@@ -1,6 +1,6 @@
-import time
 import random
+import time
 
 from .loops_practice import LoopPracticeClass
 
-__all__ = ['LoopPracticeClass']
+__all__ = ["LoopPracticeClass"]
